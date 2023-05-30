@@ -4,6 +4,8 @@
 4. adding files stagging area-> git add <file name> (for particular file) || git add . (for all the file)
 5. commiting the code -> git commit -m <"commit message">
 6. pushing code to github -> git push origin master 
+7. for getting commit history -> git log || git log --oneline
+
 
 short cut
 
@@ -11,3 +13,4 @@ short cut
 2. for adding folder/directory-> mkdir <folder name>
 3. coming out from directory -> cd..
 4. for getting the list of directories -> ls
+
