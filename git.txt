@@ -17,5 +17,11 @@ short cut
 branching in git
 
 1. create and switch to a branch -> git checkout -b <branch name>
+                            OR
+git branch <branch name> : to create a new branch
+
+git checkout <branch name> : switching to a branch
+
 2. for switching between branches -> git switch <branch name>
 3. to know number of branches -> git branch
+
