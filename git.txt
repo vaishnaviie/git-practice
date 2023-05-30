@@ -6,7 +6,6 @@
 6. pushing code to github -> git push origin master 
 7. for getting commit history -> git log || git log --oneline
 
-
 short cut
 
 1. for adding files-> touch <file name with extension>
@@ -14,3 +13,9 @@ short cut
 3. coming out from directory -> cd..
 4. for getting the list of directories -> ls
 
+
+branching in git
+
+1. create and switch to a branch -> git checkout -b <branch name>
+2. for switching between branches -> git switch <branch name>
+3. to know number of branches -> git branch
