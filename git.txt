@@ -1,0 +1,13 @@
+1. initialize the git -> git init
+2. setting remote origin -> git remote add origin <url>
+3. for checking status of the code ->git status 
+4. adding files stagging area-> git add <file name> (for particular file) || git add . (for all the file)
+5. commiting the code -> git commit -m <"commit message">
+6. pushing code to github -> git push origin master 
+
+short cut
+
+1. for adding files-> touch <file name with extension>
+2. for adding folder/directory-> mkdir <folder name>
+3. coming out from directory -> cd..
+4. for getting the list of directories -> ls
